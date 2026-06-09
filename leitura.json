@@ -1,0 +1,18 @@
+{
+	"_id": "CAM_IVECO_8H54_2026-06-08",
+	"caminhao_id": "CAM_IVECO_8H54",
+	"placa": "EQY-8H54",
+	"motorista": "Tales Sousa",
+	"data_leitura": "2026-06-08",
+
+	"total_leituras": 3,
+	"temp_min": -16,
+	"temp_max": -15,
+	"temp_media": -15.33,
+
+	"leituras": [
+		{"time": "23:18:00", "temp_C": -15, "umidade": 85.0},
+		{"time": "23:18:10", "temp_C": -16, "umidade": 85.5},
+		{"time": "23:18:20", "temp_C": -15, "umidade": 85.0}
+	]
+}
